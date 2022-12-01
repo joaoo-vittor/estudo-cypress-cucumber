@@ -1,0 +1,9 @@
+{
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.{feature,features}",
+  "defaultCommandTimeout": 10000,
+  "firefoxGcInterval": {
+    "runMode": null,
+    "openMode": null
+  }
+}
